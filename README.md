@@ -12,7 +12,7 @@ The goal of this project is to design a hybrid model capable of improving recomm
 The project uses Goodreads data containing:
 - **Books metadata:** title, author, genre, year, ISBN  
 - **User ratings:** ≈2,000,000 ratings from ≈15,000 users across ≈8,000 books  
-- **Cover images:** 5,928 images resized to 32x32 pixels  
+- **Cover images:** 5,928 images resized to 32x32 pixels 
 
 **Data Split:**  
 - Train: 65%  
