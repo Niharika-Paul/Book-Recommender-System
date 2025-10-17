@@ -61,9 +61,8 @@ The project uses Goodreads data containing:
 📦 Book-Recommender
  ┣ 💻 ML_book_recommender.ipynb
  ┣ 📄 Book_Recommender_Project_Report.pdf
- ┣ 📘 research_paper.pdf
  ┣ 🖼️ poster
- ┗ 📄 README_Book_Recommender.md
+ ┗ 📄 README.md
 ```
 
 ---
